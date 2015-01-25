@@ -1,0 +1,25 @@
+{
+  "name": "slack-reviewbot",
+  "version": "0.0.1",
+  "description": "Get notifications on slack on issue updates!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macobo/slack-reviewbot.git"
+  },
+  "keywords": [
+    "slack",
+    "chat",
+    "github",
+    "code-review"
+  ],
+  "author": "Karl-Aksel Puulmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macobo/slack-reviewbot/issues"
+  },
+  "homepage": "https://github.com/macobo/slack-reviewbot"
+}
